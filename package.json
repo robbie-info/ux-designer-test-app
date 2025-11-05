@@ -1,0 +1,11 @@
+{
+  "name": "ux-designer-test-app",
+  "version": "1.0.0",
+  "description": "Fake app for testing UX designer AI tool",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "dependencies": {
+    "react": "^18.0.0"
+  }
+}
